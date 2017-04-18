@@ -20,7 +20,7 @@ def bubble_sort(array)
         swapped = true
       end
     end
-    
+
     break if not swapped
   end
   array
